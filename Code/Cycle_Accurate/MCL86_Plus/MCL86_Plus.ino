@@ -1,3 +1,4 @@
+#pragma GCC optimize ("03")
 //
 //
 //  File Name   :  MCL86_Plus.c
